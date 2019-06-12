@@ -2,6 +2,25 @@
 // http://ionicframework.com/docs/theming/
 
 /** Ionic CSS Variables **/
+
+ion-content{
+  --ion-background-color:black;
+}
+
+ion-header{
+  --ion-background-color:red;
+}
+ion-list{
+  --ion-text-color:red;
+}
+p{
+ color: white;
+}
+
+ion-card-title{
+  --color: red;
+}
+
 :root {
   /** primary **/
   --ion-color-primary: #3880ff;
